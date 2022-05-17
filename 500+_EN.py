@@ -1,10 +1,10 @@
 #Date import
 from datetime import date
 
-#Current yeat and month
+#Current year and month
 a = date.today().year
 e = date.today().month
-#Number of childern
+#Number of children
 if 1+1 < 3:
     children_sum = int(input('Input number of children, that are below 18 years old: '))
     while children_sum < 0:
