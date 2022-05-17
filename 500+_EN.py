@@ -1,7 +1,7 @@
 #Date import
 from datetime import date
 
-#Current year and month
+#Current year and monthh
 a = date.today().year
 e = date.today().month
 #Number of children
